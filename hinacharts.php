@@ -8,7 +8,7 @@
  * Author URI:  https://github.com/HinaLowell
  * License:     GPLv3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
- * Update URI:  https://example.com/plugins/hinacharts
+ * Update URI:  https://example.com/hinacharts
  * Text Domain: hinacharts
  * Domain Path: /languages
  */
