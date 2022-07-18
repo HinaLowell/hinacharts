@@ -18,6 +18,6 @@
  * License:     GPL-3.0
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: hinacharts
- * Domain Path: /languages
+ * Domain Path: /language
  * Update URI:  https://example.com/hinacharts
  */
