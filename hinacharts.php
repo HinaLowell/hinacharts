@@ -3,7 +3,6 @@
 /**
  * The plugin entrypoint
  *
- * @package   HinaCharts
  * @author    Hina Lowell
  * @copyright 2022 Hina Lowell
  * @license   GPL-3.0
