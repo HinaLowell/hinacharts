@@ -10,7 +10,7 @@
  * @wordpress-plugin
  * Plugin Name: HinaCharts
  * Plugin URI:  https://github.com/HinaLowell/hinacharts
- * Description: Extract values ​​from a database and draw charts.
+ * Description: Extract values from the database and draw charts.
  * Version:     0.0.0
  * Author:      Hina Lowell
  * Author URI:  https://github.com/HinaLowell
