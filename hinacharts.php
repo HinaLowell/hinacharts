@@ -3,7 +3,7 @@
 /**
  * The plugin entrypoint
  *
- * @author    Hina Lowell
+ * @author    Hina Lowell <hina.lowell.0202@gmail.com>
  * @copyright 2022 Hina Lowell
  * @license   GPL-3.0
  *
