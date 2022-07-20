@@ -23,6 +23,14 @@
 
 require_once plugin_dir_path(__FILE__) . "widget/chart.php";
 
+add_action("plugins_loaded", function () {
+    load_plugin_textdomain(
+        "hinacharts",
+        false,
+        dirname(plugin_basename(__FILE__)) . "/language"
+    );
+});
+
 add_action("widgets_init", function () {
     register_widget(new HinaCharts\Widget\Chart());
 });

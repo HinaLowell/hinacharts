@@ -1,0 +1,40 @@
+# Copyright (C) 2022 Hina Lowell
+# This file is distributed under the GPL-3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: HinaCharts 0.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hinacharts\n"
+"POT-Creation-Date: 2022-07-20T11:49:54+00:00\n"
+"PO-Revision-Date: 2022-07-20 20:54+0900\n"
+"Last-Translator: Hina Lowell <hina.lowell.0202@gmail.com>\n"
+"Language-Team: Hina Lowell <hina.lowell.0202@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Domain: hinacharts\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Plugin Name of the plugin
+#: widget/chart.php:29
+msgid "HinaCharts"
+msgstr "ひなチャート"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/HinaLowell/hinacharts"
+msgstr ""
+
+#. Description of the plugin
+#: widget/chart.php:25
+msgid "Extract values from the database and draw charts."
+msgstr "データベースから値を取り出し、チャートを描画します。"
+
+#. Author of the plugin
+msgid "Hina Lowell"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/HinaLowell"
+msgstr ""
