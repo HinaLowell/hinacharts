@@ -20,3 +20,9 @@
  * Domain Path: /language
  * Update URI:  https://example.com/hinacharts
  */
+
+require_once plugin_dir_path(__FILE__) . "widget/chart.php";
+
+add_action("widgets_init", function () {
+    register_widget(new HinaCharts\Widget\Chart());
+});
